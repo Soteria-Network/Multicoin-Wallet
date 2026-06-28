@@ -73,7 +73,7 @@ With multiple wallet types to choose from, a polished desktop and mobile experie
 Soteria Multicoin Wallet has been tested on the following platforms:
 
 - Windows 10, 11
-- Linux (Ubuntu 22.04+)
+- Linux (Ubuntu 24.04+)
 - macOS (11.0+)
 
 
