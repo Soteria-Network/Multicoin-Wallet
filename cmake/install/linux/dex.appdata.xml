@@ -1,0 +1,20 @@
+<component type="desktop-application">
+    <id>dex.desktop</id>
+    <metadata_license>MIT</metadata_license>
+    <project_license>MIT</project_license>
+    <name>Soteria Multicoin Wallet</name>
+    <summary>atomic qt  gui desktop</summary>
+    <description>
+        <p>Written in c++17</p>
+    </description>
+    <launchable type="desktop-id">dex.desktop</launchable>
+    <url type="homepage">https://soteria-network.online/</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://www.freedesktop.org/software/appstream/docs/images/scr-examples/geany-good.png</image>
+        </screenshot>
+    </screenshots>
+    <provides>
+        <id>dex.desktop</id>
+    </provides>
+</component>
